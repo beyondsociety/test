@@ -1,0 +1,12 @@
+{
+    "name": "ibox",
+    "description": "This box contains Ubuntu 16.04 LTS 64-bit.",
+    "versions": [{
+        "version": "0.0.1",
+        "providers": [{
+                "name": "virtualbox",
+                "url": "file://~/VagrantBoxes/test/vagrant-ibox.box",
+                "checksum_type": "sha1",
+                "checksum": "food"
+    }]
+}
