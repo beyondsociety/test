@@ -5,8 +5,8 @@
         "version": "0.0.1",
         "providers": [{
                 "name": "virtualbox",
-                "url": "file://~/VagrantBoxes/test/vagrant-ibox.box",
+                "url": "https://github.com/beyondsociety/test/blob/master/vagrant-ibox.box",
                 "checksum_type": "sha1",
-                "checksum": "food"
+                "checksum": "foo"
     }]
 }
